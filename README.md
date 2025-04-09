@@ -1,5 +1,5 @@
 <p align = "center">
-<img src="https://github.com/Arsh2k01/UTrack/blob/main/UTrack.jpg" width="650" height="620"> 
+<img src="https://github.com/Vaishnavi1297/UTrack/blob/main/UTrack.jpg" width="650" height="620"> 
  </p> 
 <br />
 
@@ -24,7 +24,7 @@ We explored Transformer models and found that BERT(Bidirectional Encoder Represe
 The output given by the final layer was not fed to any activation function; it was instead given as input to a custom function to normalize and standardize the data. The function is given below: <br />
 <br />
 <p align = "center">
-<img src="https://github.com/Arsh2k01/UTrack/blob/main/function.jpeg" width="600" height="150"> 
+<img src="https://github.com/Vaishnavi1297/UTrack/blob/main/function.jpeg" width="600" height="150"> 
  </p> 
  <br />
 
